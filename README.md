@@ -1,5 +1,5 @@
 # mrfmel
 
-## mentalray for Maya MEL scripts
+## Mental Ray for Maya MEL scripts
 
-Collection of useful MEL scripts for mentalray (or Mental Ray) for Maya
+Collection of useful MEL scripts for Mental Ray for Maya
